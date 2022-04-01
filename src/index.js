@@ -17,6 +17,7 @@ Elements.taskInput.addEventListener('keypress', (event) => {
   if (event.keyCode === 13) {
     event.preventDefault();
     addTask();
+    Elements.taskInput.value = '';
   }
 });
 
