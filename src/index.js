@@ -8,9 +8,6 @@ import {
 } from './module/Function.js';
 import * as Elements from './module/constElements.js';
 
-/* eslint-disable */
-/* eslint-enable */
-
 Elements.submitInput.addEventListener('click', addTask);
 
 Elements.taskInput.addEventListener('keypress', (event) => {
