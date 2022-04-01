@@ -25,7 +25,7 @@ HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config
 Github
 
 
-👤 **Author1**
+👤 **ONWUANIBE ONOMEH**
 
 - GitHub: [@githubhandle](https://github.com/estherstarr)
 - Twitter: [@twitterhandle](https://twitter.com/anibeEsther)
