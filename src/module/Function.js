@@ -37,7 +37,7 @@ const addTask = () => {
 
 const reorderTaskObjectId = (obj) => {
   obj.forEach((item, index) => {
-    item.id = index;
+    item.id = index + 1;
   });
 };
 
