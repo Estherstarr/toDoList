@@ -29,6 +29,7 @@ Elements.taskList.addEventListener('click', (e) => {
   e.stopPropagation();
 
   [...Elements.taskList.children].forEach((item, index) => {
+    index += 1;
     if (item.classList.contains('bg-yellow')) {
       item.children[1].classList.remove('hide');
       item.children[2].classList.add('hide');
