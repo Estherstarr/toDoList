@@ -14,3 +14,8 @@ const submit = () => {
 };
 
 submit();
+
+const clearCompleteBtn = document.querySelector('.button');
+clearCompleteBtn.addEventListener('click', () => {
+  task.clearCompleted();
+});
