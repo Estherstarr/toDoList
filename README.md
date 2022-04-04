@@ -39,7 +39,7 @@ git clone  <https://github.com/Estherstarr/toDoList.git>
 
 - GitHub: [@githubhandle](https://github.com/estherstarr)
 - Twitter: [@twitterhandle](https://twitter.com/anibeEsther)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/onwuanibe-onomeh-52300a19a/)
 
 
 
